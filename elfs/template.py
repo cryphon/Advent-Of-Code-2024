@@ -4,7 +4,7 @@ import elfs as elfs
 
 # get daily input
 day = elfs.get_day(__file__)
-input = helpers.read_data(day)
+input = elfs.read_data(day)
 
 
 
